@@ -1,0 +1,22 @@
+{
+  "name": "senecalearn",
+  "version": "1.0.0",
+  "description": "senecaDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnqiu/senecaLearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnqiu/senecaLearn/issues"
+  },
+  "homepage": "https://github.com/nnqiu/senecaLearn#readme",
+  "dependencies": {
+    "seneca": "^3.17.0"
+  }
+}
